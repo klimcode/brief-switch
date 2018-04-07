@@ -1,0 +1,27 @@
+{
+  "name": "brief-switch",
+  "version": "0.1.0",
+  "description": "The shortest syntax for functional switch-case",
+  "main": "switch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klimcode/brief-switch.git"
+  },
+  "keywords": [
+    "brief",
+    "shortest",
+    "syntax",
+    "switch",
+    "functional",
+    "no-dependencies"
+  ],
+  "author": "John Klimov <klimcode@gmail.com> (http://klimov.site/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klimcode/brief-switch/issues"
+  },
+  "homepage": "https://github.com/klimcode/brief-switch#readme"
+}
